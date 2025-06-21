@@ -1,0 +1,21 @@
+/*Estilos de header*/
+header{
+    background: #1E88E5;
+    color: aliceblue;
+}
+/*Estilos de nav*/
+nav{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+nav > ul{
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+nav > ul > li >a{
+    color: aliceblue;
+    text-decoration: none;
+}

@@ -1,0 +1,18 @@
+.banner{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 30PX;
+    justify-content: center;
+    padding: 60PX;
+}
+.banner img{
+    border-radius: 50%;
+    width: 10%;
+}
+.titulobanner{
+    color: #416ce0;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+}
