@@ -1,6 +1,7 @@
 @import url(/proyecto-1/style/header.css);
 @import url(/proyecto-1/style/banner.css);
 @import url(/proyecto-1/style/catalogo.css);
+@import url(/proyecto-1/style/extra.css);
 *{
     box-sizing: border-box; /*permite que el contenidoi no se desborde*/
     margin: 0;  /*Quita el espaciado externo*/
