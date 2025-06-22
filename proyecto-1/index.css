@@ -1,3 +1,4 @@
+@import url(/proyecto-1/style/header.css);
 *{
     box-sizing: border-box; /*permite que el contenidoi no se desborde*/
     margin: 0;  /*Quita el espaciado externo*/
