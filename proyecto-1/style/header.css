@@ -1,7 +1,7 @@
 /*Estilos de header*/
 header{
     background: #1E88E5;
-    color: aliceblue;
+    color: #f0f8ff;
 }
 /*Estilos de nav*/
 nav{
@@ -16,6 +16,6 @@ nav > ul{
     list-style: none;
 }
 nav > ul > li >a{
-    color: aliceblue;
+    color: #f0f8ff;
     text-decoration: none;
 }
