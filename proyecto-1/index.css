@@ -3,6 +3,7 @@
 @import url(/proyecto-1/style/catalogo.css);
 @import url(/proyecto-1/style/extra.css);
 @import url(/proyecto-1/style/registro.css);
+@import url(/proyecto-1/style/footer.css);
 *{
     box-sizing: border-box; /*permite que el contenidoi no se desborde*/
     margin: 0;  /*Quita el espaciado externo*/
